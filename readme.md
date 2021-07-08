@@ -1,2 +1,2 @@
- pip freeze > requirments.txt
+ # pip install
  pip install -r requirments.txt
